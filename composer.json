@@ -1,0 +1,8 @@
+{
+    "require": {
+        "twilio/sdk": "^7.13",
+        "fakerphp/faker": "^1.23",
+        "phpmailer/phpmailer": "^6.9",
+        "ext-json": "*"
+    }
+}
