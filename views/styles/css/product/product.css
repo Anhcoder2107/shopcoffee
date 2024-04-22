@@ -37,6 +37,7 @@ body{
 .product-container__sidebar__content ul li a{
     text-decoration: none;
     color: rgba(0, 0, 0, 0.6);
+    font-weight: 400;
 }
 
 .product-container__content-title{
@@ -52,13 +53,12 @@ body{
 }
 
 .product-container__item{
-    flex: 0 22%;
     margin-bottom: 2%;
     margin-left: 28px;
     background: linear-gradient(to bottom, #f1f2f3 25px, #222831 25px);
     color: white;
     border-radius: 20px;
-    padding: 0;
+    padding: 0 !important;
 }
 
 

@@ -15,7 +15,6 @@
     <?php include ('views/default/header.php'); ?>
 
     <div class="container">
-        <?php echo session_id(); ?>
         <div class="container__banner">
             <div class="container__banner-img fade">
                 <img class="banner-img__image" src="views/styles/image/Banner/Banner1.png" alt="">

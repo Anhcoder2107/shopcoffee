@@ -36,7 +36,7 @@
                         <div class="product-container__content-title">
                             <h3>Cooffe</h3>
                         </div>
-                        <div class="product-container__item-wrap row row-cols-3">
+                        <div class="product-container__item-wrap row row-cols-4">
                             <div class="product-container__item col">
                                 <div class="product-container__item-img">
                                     <a href="">
@@ -143,7 +143,7 @@
                         <div class="product-container__content-title">
                             <h3>Cooffe</h3>
                         </div>
-                        <div class="product-container__item-wrap row row-cols-3">
+                        <div class="product-container__item-wrap row row-cols-4">
                             <div class="product-container__item col">
                                 <div class="product-container__item-img">
                                     <a href="">
@@ -210,7 +210,7 @@
                         <div class="product-container__content-title">
                             <h3>Cooffe</h3>
                         </div>
-                        <div class="product-container__item-wrap row row-cols-3">
+                        <div class="product-container__item-wrap row row-cols-4">
                             <div class="product-container__item col">
                                 <div class="product-container__item-img">
                                     <a href="">

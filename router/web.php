@@ -7,6 +7,7 @@ require_once('controllers/auth/registerController.php');
 require_once('controllers/auth/logoutController.php');
 require_once('controllers/auth/forgotPasswordController.php');
 require_once('controllers/ProductController.php');
+require_once('controllers/BlogController.php');
 
 // Khai Bao Bien
 
@@ -30,7 +31,10 @@ $routes = [
     '/shopcoffee/resetPassword' => 'ForgotPasswordController@resetPassword',
 
     //Product
-    '/shopcoffee/products' => 'ProductController@index'
+    '/shopcoffee/products' => 'ProductController@index',
+
+    //Blog
+    '/shopcoffee/blog' => 'BlogController@index',
 
 
 ];

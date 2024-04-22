@@ -20,7 +20,7 @@ class ProductController extends Controller{
         $products = ProductModel::getAllTable("products");
 //        echo json_encode($products);
         $product =  json_encode($products);
-        // require_once('views/admin/product/product.php');
+        require_once('views/admin/product/product.php');
     }
 
     // Show product with id

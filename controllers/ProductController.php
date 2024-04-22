@@ -1,12 +1,6 @@
 <?php 
-require_once('controllers/Controller.php');
-require_once('vendor/autoload.php');
-require_once('vendor/fakerphp/faker/src/autoload.php');
 
-
-use Faker\Factory;
-
-class ProductController extends Controller{
+class ProductController{
 
     //Home Product
     public function index(){
